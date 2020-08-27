@@ -1,2 +1,2 @@
 # Test
-Test for Git command reposistry 
+Test for Git command presentation
